@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/jsun0/Pictures/wallpaper/climbing-rainbow-rocks-by-hampus-olsson-1920×1080.jpg' 

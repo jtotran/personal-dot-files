@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/etc/sudoers.d'
+let g:netrw_dirhist_2='/home/jsun0/dev/advance-computer-architecture/ecpe_293_01_projects/initial_pipelining'
+let g:netrw_dirhist_1='/home/jsun0/.zsh'
